@@ -1,23 +1,24 @@
 import json
 import re
-import google.generativeai as genai
+from google import genai
 import src.config as config
 
-# Configure the Gemini API if the key is available
+# Initialize the Gemini API client if the key is available
+client = None
 if config.GEMINI_API_KEY:
-    genai.configure(api_key=config.GEMINI_API_KEY)
+    client = genai.Client(api_key=config.GEMINI_API_KEY)
 else:
     print("[WARNING] GEMINI_API_KEY is not set. Gemini API calls will fail.")
+
 
 def suggest_new_company(analyzed_companies: list) -> dict:
     """
     Queries Gemini to suggest a successful B2B/PLG/bootstrapped/micro-SaaS company
     that has not been analyzed yet.
     """
-    if not config.GEMINI_API_KEY:
+    if not client:
         raise ValueError("GEMINI_API_KEY is not configured.")
 
-    model = genai.GenerativeModel('gemini-1.5-flash')
     
     # Construct a list of names/websites to exclude
     excluded_names = [item.get("name", "").strip() for item in analyzed_companies]
@@ -42,7 +43,10 @@ Rules:
 - Wrap the JSON in a markdown block: ```json ... ```. Do not include any other text outside the block.
 """
 
-    response = model.generate_content(prompt)
+    response = client.models.generate_content(
+        model='gemini-1.5-flash',
+        contents=prompt
+    )
     raw_text = response.text.strip()
     
     # Parse the JSON from the markdown block
@@ -67,10 +71,9 @@ def generate_report(company_info: dict, report_number: int) -> str:
     Asks Gemini to research the company and generate a comprehensive Founder Intelligence Report
     in the exact format specified by the user.
     """
-    if not config.GEMINI_API_KEY:
+    if not client:
         raise ValueError("GEMINI_API_KEY is not configured.")
 
-    model = genai.GenerativeModel('gemini-1.5-flash')
     
     name = company_info.get("name")
     website = company_info.get("website")
@@ -302,7 +305,10 @@ New User
 #FounderLessons
 """
 
-    response = model.generate_content(prompt)
+    response = client.models.generate_content(
+        model='gemini-1.5-flash',
+        contents=prompt
+    )
     return response.text.strip()
 
 def extract_opportunity_score(report_text: str) -> int:
