@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Buffer",
+    "website": "https://buffer.com",
+    "category": "Social Media Scheduling"
+  },
+  {
+    "name": "ConvertKit",
+    "website": "https://convertkit.com",
+    "category": "Email Marketing for Creators"
+  },
+  {
+    "name": "Calendly",
+    "website": "https://calendly.com",
+    "category": "Product-Led Growth Scheduling"
+  },
+  {
+    "name": "Carrd",
+    "website": "https://carrd.co",
+    "category": "Micro-SaaS Website Builder"
+  },
+  {
+    "name": "Bannerbear",
+    "website": "https://bannerbear.com",
+    "category": "Image Generation API / Micro-SaaS"
+  },
+  {
+    "name": "Notion",
+    "website": "https://notion.so",
+    "category": "Product-Led Workspace"
+  },
+  {
+    "name": "Mailchimp",
+    "website": "https://mailchimp.com",
+    "category": "Email Marketing & Automation"
+  },
+  {
+    "name": "Loom",
+    "website": "https://loom.com",
+    "category": "Asynchronous Video Messaging"
+  },
+  {
+    "name": "Zapier",
+    "website": "https://zapier.com",
+    "category": "Workflow Automation / Integration"
+  },
+  {
+    "name": "Webflow",
+    "website": "https://webflow.com",
+    "category": "No-Code Visual Web Development"
+  },
+  {
+    "name": "Plausible Analytics",
+    "website": "https://plausible.io",
+    "category": "Bootstrapped Privacy-Focused Analytics"
+  },
+  {
+    "name": "Fathom Analytics",
+    "website": "https://usefathom.com",
+    "category": "Bootstrapped Web Analytics"
+  },
+  {
+    "name": "Retool",
+    "website": "https://retool.com",
+    "category": "Internal Developer Tools Builder"
+  },
+  {
+    "name": "Ghost",
+    "website": "https://ghost.org",
+    "category": "Open-Source Bootstrapped Publishing Platform"
+  },
+  {
+    "name": "Beehiiv",
+    "website": "https://beehiiv.com",
+    "category": "Newsletter & Creator Platform"
+  },
+  {
+    "name": "Lemlist",
+    "website": "https://lemlist.com",
+    "category": "B2B Cold Outreach Automation"
+  },
+  {
+    "name": "HubSpot",
+    "website": "https://hubspot.com",
+    "category": "Inbound Marketing & CRM SaaS"
+  },
+  {
+    "name": "Intercom",
+    "website": "https://intercom.com",
+    "category": "Customer Support & Messaging Platform"
+  },
+  {
+    "name": "Pipedrive",
+    "website": "https://pipedrive.com",
+    "category": "B2B Sales CRM SaaS"
+  },
+  {
+    "name": "Linear",
+    "website": "https://linear.app",
+    "category": "Product-Led Issue Tracker"
+  },
+  {
+    "name": "Todoist",
+    "website": "https://todoist.com",
+    "category": "Task Management / Bootstrapped Productivity"
+  },
+  {
+    "name": "Basecamp",
+    "website": "https://basecamp.com",
+    "category": "Bootstrapped Project Management SaaS"
+  },
+  {
+    "name": "Gumroad",
+    "website": "https://gumroad.com",
+    "category": "Creator E-Commerce Platform"
+  },
+  {
+    "name": "Typeform",
+    "website": "https://typeform.com",
+    "category": "Interactive Form & Survey SaaS"
+  },
+  {
+    "name": "Hunter.io",
+    "website": "https://hunter.io",
+    "category": "B2B Lead Generation & Email Finder"
+  },
+  {
+    "name": "ScrapingBee",
+    "website": "https://scrapingbee.com",
+    "category": "Web Scraping API Micro-SaaS"
+  },
+  {
+    "name": "Tally.so",
+    "website": "https://tally.so",
+    "category": "Simple Form Builder / Bootstrapped"
+  },
+  {
+    "name": "Testimonial.to",
+    "website": "https://testimonial.to",
+    "category": "Video & Text Testimonial Collector"
+  },
+  {
+    "name": "Feather.so",
+    "website": "https://feather.so",
+    "category": "Notion to Blog Site Builder"
+  },
+  {
+    "name": "PDFShift",
+    "website": "https://pdfshift.io",
+    "category": "HTML to PDF Converter Micro-SaaS"
+  },
+  {
+    "name": "Canva",
+    "website": "https://canva.com",
+    "category": "Design & Content Creation Suite"
+  },
+  {
+    "name": "Tailwind UI",
+    "website": "https://tailwindui.com",
+    "category": "Component Library / Bootstrapped"
+  },
+  {
+    "name": "LeaveMeAlone",
+    "website": "https://leavemealone.app",
+    "category": "Email Unsubscription SaaS"
+  },
+  {
+    "name": "Stripe",
+    "website": "https://stripe.com",
+    "category": "Online Payment Infrastructure"
+  },
+  {
+    "name": "Vercel",
+    "website": "https://vercel.com",
+    "category": "Frontend Deployment & Cloud Platform"
+  }
+]
