@@ -44,7 +44,7 @@ Rules:
 """
 
     response = client.models.generate_content(
-        model='gemini-1.5-flash',
+        model=config.GEMINI_MODEL,
         contents=prompt
     )
     raw_text = response.text.strip()
@@ -306,7 +306,7 @@ New User
 """
 
     response = client.models.generate_content(
-        model='gemini-1.5-flash',
+        model=config.GEMINI_MODEL,
         contents=prompt
     )
     return response.text.strip()
