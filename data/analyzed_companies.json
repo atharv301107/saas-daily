@@ -26,5 +26,12 @@
     "category": "Micro-SaaS Website Builder",
     "report_date": "2026-07-05",
     "opportunity_score": 8
+  },
+  {
+    "name": "Bannerbear",
+    "website": "https://bannerbear.com",
+    "category": "Image Generation API / Micro-SaaS",
+    "report_date": "2026-07-06",
+    "opportunity_score": 8
   }
 ]
