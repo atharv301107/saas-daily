@@ -33,5 +33,12 @@
     "category": "Image Generation API / Micro-SaaS",
     "report_date": "2026-07-06",
     "opportunity_score": 8
+  },
+  {
+    "name": "Notion",
+    "website": "https://notion.so",
+    "category": "Product-Led Workspace",
+    "report_date": "2026-07-07",
+    "opportunity_score": 9
   }
 ]
