@@ -40,5 +40,12 @@
     "category": "Product-Led Workspace",
     "report_date": "2026-07-07",
     "opportunity_score": 9
+  },
+  {
+    "name": "Mailchimp",
+    "website": "https://mailchimp.com",
+    "category": "Email Marketing & Automation",
+    "report_date": "2026-07-08",
+    "opportunity_score": 8
   }
 ]
