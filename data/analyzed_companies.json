@@ -47,5 +47,12 @@
     "category": "Email Marketing & Automation",
     "report_date": "2026-07-08",
     "opportunity_score": 8
+  },
+  {
+    "name": "Loom",
+    "website": "https://loom.com",
+    "category": "Asynchronous Video Messaging",
+    "report_date": "2026-07-09",
+    "opportunity_score": 8
   }
 ]
