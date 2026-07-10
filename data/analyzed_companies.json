@@ -54,5 +54,12 @@
     "category": "Asynchronous Video Messaging",
     "report_date": "2026-07-09",
     "opportunity_score": 8
+  },
+  {
+    "name": "Zapier",
+    "website": "https://zapier.com",
+    "category": "Workflow Automation / Integration",
+    "report_date": "2026-07-10",
+    "opportunity_score": 8
   }
 ]
