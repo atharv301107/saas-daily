@@ -61,5 +61,12 @@
     "category": "Workflow Automation / Integration",
     "report_date": "2026-07-10",
     "opportunity_score": 8
+  },
+  {
+    "name": "Webflow",
+    "website": "https://webflow.com",
+    "category": "No-Code Visual Web Development",
+    "report_date": "2026-07-11",
+    "opportunity_score": 8
   }
 ]
