@@ -68,5 +68,12 @@
     "category": "No-Code Visual Web Development",
     "report_date": "2026-07-11",
     "opportunity_score": 8
+  },
+  {
+    "name": "Plausible Analytics",
+    "website": "https://plausible.io",
+    "category": "Bootstrapped Privacy-Focused Analytics",
+    "report_date": "2026-07-12",
+    "opportunity_score": 8
   }
 ]
