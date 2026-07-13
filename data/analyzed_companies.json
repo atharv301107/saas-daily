@@ -75,5 +75,12 @@
     "category": "Bootstrapped Privacy-Focused Analytics",
     "report_date": "2026-07-12",
     "opportunity_score": 8
+  },
+  {
+    "name": "Fathom Analytics",
+    "website": "https://usefathom.com",
+    "category": "Bootstrapped Web Analytics",
+    "report_date": "2026-07-13",
+    "opportunity_score": 8
   }
 ]
