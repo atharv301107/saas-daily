@@ -82,5 +82,12 @@
     "category": "Bootstrapped Web Analytics",
     "report_date": "2026-07-13",
     "opportunity_score": 8
+  },
+  {
+    "name": "Retool",
+    "website": "https://retool.com",
+    "category": "Internal Developer Tools Builder",
+    "report_date": "2026-07-14",
+    "opportunity_score": 8
   }
 ]
