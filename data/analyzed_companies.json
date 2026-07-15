@@ -89,5 +89,12 @@
     "category": "Internal Developer Tools Builder",
     "report_date": "2026-07-14",
     "opportunity_score": 8
+  },
+  {
+    "name": "Ghost",
+    "website": "https://ghost.org",
+    "category": "Open-Source Bootstrapped Publishing Platform",
+    "report_date": "2026-07-15",
+    "opportunity_score": 8
   }
 ]
