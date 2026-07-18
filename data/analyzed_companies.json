@@ -110,5 +110,12 @@
     "category": "B2B Cold Outreach Automation",
     "report_date": "2026-07-17",
     "opportunity_score": 8
+  },
+  {
+    "name": "HubSpot",
+    "website": "https://hubspot.com",
+    "category": "Inbound Marketing & CRM SaaS",
+    "report_date": "2026-07-18",
+    "opportunity_score": 8
   }
 ]
