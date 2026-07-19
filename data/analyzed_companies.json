@@ -117,5 +117,12 @@
     "category": "Inbound Marketing & CRM SaaS",
     "report_date": "2026-07-18",
     "opportunity_score": 8
+  },
+  {
+    "name": "Intercom",
+    "website": "https://intercom.com",
+    "category": "Customer Support & Messaging Platform",
+    "report_date": "2026-07-19",
+    "opportunity_score": 8
   }
 ]
