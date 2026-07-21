@@ -131,5 +131,12 @@
     "category": "B2B Sales CRM SaaS",
     "report_date": "2026-07-20",
     "opportunity_score": 8
+  },
+  {
+    "name": "Linear",
+    "website": "https://linear.app",
+    "category": "Product-Led Issue Tracker",
+    "report_date": "2026-07-21",
+    "opportunity_score": 8
   }
 ]
