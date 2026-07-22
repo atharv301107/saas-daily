@@ -138,5 +138,12 @@
     "category": "Product-Led Issue Tracker",
     "report_date": "2026-07-21",
     "opportunity_score": 8
+  },
+  {
+    "name": "Todoist",
+    "website": "https://todoist.com",
+    "category": "Task Management / Bootstrapped Productivity",
+    "report_date": "2026-07-22",
+    "opportunity_score": 8
   }
 ]
