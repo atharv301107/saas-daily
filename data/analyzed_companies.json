@@ -145,5 +145,12 @@
     "category": "Task Management / Bootstrapped Productivity",
     "report_date": "2026-07-22",
     "opportunity_score": 8
+  },
+  {
+    "name": "Basecamp",
+    "website": "https://basecamp.com",
+    "category": "Bootstrapped Project Management SaaS",
+    "report_date": "2026-07-23",
+    "opportunity_score": 8
   }
 ]
